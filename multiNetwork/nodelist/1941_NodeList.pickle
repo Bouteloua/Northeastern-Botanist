@@ -1,0 +1,923 @@
+(dp1
+S'm. h.'
+p2
+I2
+sS'l. f. richardson'
+p3
+I2
+sS'b. h. long'
+p4
+I40
+sS'h. n. moldenke'
+p5
+I2
+sS'm. provost'
+p6
+I3
+sS'l. foote'
+p7
+I9
+sS'h. b. correll'
+p8
+I6
+sS'h. t. croasdale'
+p9
+I3
+sS'fr. m. sch.'
+p10
+I1
+sS'f. f. jones'
+p11
+I15
+sS'mary w. taylor'
+p12
+I3
+sS'p. rines'
+p13
+I2
+sS'd. s. carpenter'
+p14
+I1
+sS'w. c. muenscher'
+p15
+I27
+sS'h. s. clapp'
+p16
+I2
+sS'w. c. muenschew'
+p17
+I2
+sS'o. m. freeman'
+p18
+I1
+sS'i. schooberger'
+p19
+I1
+sS'w. h. wiegmann'
+p20
+I13
+sS'c. neidorf'
+p21
+I4
+sS'w. b. smith'
+p22
+I2
+sS'f. j. myers'
+p23
+I3
+sS'd. isely'
+p24
+I7
+sS'f. faulkner'
+p25
+I5
+sS'r. weikert'
+p26
+I10
+sS'g. d. chamberlain'
+p27
+I2
+sS'r. singer'
+p28
+I1
+sS'r. l. schaeffer jr.'
+p29
+I2
+sS't. c. baim'
+p30
+I1
+sS'r. bean'
+p31
+I1
+sS'j. kucynisk'
+p32
+I1
+sS'a. l. ericson'
+p33
+I1
+sS'c. c. hanmer'
+p34
+I7
+sS'o. ames'
+p35
+I4
+sS'd. potter'
+p36
+I54
+sS'd. allen'
+p37
+I7
+sS'm. a. rice'
+p38
+I1
+sS'l. grant'
+p39
+I1
+sS'earl h. newcomer'
+p40
+I1
+sS'w. e. manning'
+p41
+I16
+sS's. chase'
+p42
+I2
+sS'd. horne'
+p43
+I10
+sS'm. bill'
+p44
+I1
+sS'r. e. shanks'
+p45
+I5
+sS'b. g. s.'
+p46
+I72
+sS'd. s. correll'
+p47
+I8
+sS'a. w. driggs'
+p48
+I2
+sS'a. r. hodgdon'
+p49
+I341
+sS'a. v. osmund'
+p50
+I1
+sS'e. roper'
+p51
+I2
+sS'i. s.'
+p52
+I2
+sS'wayne e. manning'
+p53
+I1
+sS'l. foot'
+p54
+I2
+sS'w. l. dix'
+p55
+I4
+sS'w. b. d.'
+p56
+I1
+sS'j. e. benedict jr.'
+p57
+I1
+sS'l. d. stair'
+p58
+I1
+sS'truman g. yuncker'
+p59
+I1
+sS'w. k. babel'
+p60
+I1
+sS'd. m. easton'
+p61
+I1
+sS'f. tyrell'
+p62
+I1
+sS'k. d. barnes'
+p63
+I1
+sS'h. a. gleason jr.'
+p64
+I16
+sS'r. latham'
+p65
+I7
+sS'b. g. schubert'
+p66
+I3
+sS'a. r. hodgden'
+p67
+I1
+sS'j. f. collins'
+p68
+I3
+sS'p. river'
+p69
+I1
+sS'j. m. mainville'
+p70
+I4
+sS'r. feuer'
+p71
+I18
+sS'a. c. mathieson'
+p72
+I1
+sS'm. richards'
+p73
+I2
+sS'w. a. matthews'
+p74
+I3
+sS'r. kennedy'
+p75
+I4
+sS'j. j. neale'
+p76
+I1
+sS'e. t. moldenke'
+p77
+I6
+sS'j. kezer'
+p78
+I1
+sS'e. w. dole'
+p79
+I1
+sS'j. f. smith'
+p80
+I2
+sS'i. tidestrom'
+p81
+I1
+sS'l. b.'
+p82
+I1
+sS'f. l. steele'
+p83
+I4
+sS'e. w. smith'
+p84
+I67
+sS'h.b.c. field trip'
+p85
+I1
+sS'j. v. monachino'
+p86
+I4
+sS'j. schnooberger'
+p87
+I1
+sS'n. ammon'
+p88
+I1
+sS'l.b. smith'
+p89
+I3
+sS'h. j. sheehan'
+p90
+I2
+sS'f. sanborn'
+p91
+I15
+sS's. col.'
+p92
+I4
+sS'r. fever'
+p93
+I6
+sS'g. s. torrey'
+p94
+I6
+sS'w.c. muenscher'
+p95
+I1
+sS'dexter m.'
+p96
+I1
+sS'mrs. c. roper'
+p97
+I1
+sS'd. easton'
+p98
+I75
+sS'c. carson'
+p99
+I4
+sS'c. h. knowlton'
+p100
+I123
+sS'l. c. m. croizat'
+p101
+I1
+sS'h. swift'
+p102
+I7
+sS'e. ellis'
+p103
+I1
+sS'e. j. gerberg'
+p104
+I1
+sS'g. e. nichols'
+p105
+I1
+sS'l. j. higgins'
+p106
+I4
+sS'p. wiebeck'
+p107
+I3
+sS's. b. krochmal'
+p108
+I1
+sS'f. s. fender'
+p109
+I1
+sS'h. s. conard'
+p110
+I2
+sS'm. b.'
+p111
+I2
+sS'j. w. t.'
+p112
+I1
+sS'mrs. b. sanborn'
+p113
+I1
+sS'l. k. henry'
+p114
+I1
+sS'i. m. haring'
+p115
+I10
+sS'r. h. sombard'
+p116
+I1
+sS'w. h. coates'
+p117
+I1
+sS'i. schnooberger'
+p118
+I67
+sS'c. c. zimmerman jr.'
+p119
+I2
+sS'e. j. doyle'
+p120
+I2
+sS'h. c. bold'
+p121
+I6
+sS'c. a. taylor'
+p122
+I13
+sS'm. c. dodge'
+p123
+I2
+sS'm. gammons'
+p124
+I6
+sS'c. schweinfurth'
+p125
+I3
+sS'e. l. shannon'
+p126
+I18
+sS'j. mcgrath'
+p127
+I1
+sS'j. s.'
+p128
+I1
+sS'a. leroy andrews'
+p129
+I2
+sS'e. sheehan'
+p130
+I8
+sS'e. j. palmer'
+p131
+I226
+sS'e. m. kittredge'
+p132
+I10
+sS'j. w. thomas'
+p133
+I1
+sS'd. h. linder'
+p134
+I1
+sS'm. s. muenscher'
+p135
+I1
+sS'r. l. schaeffer'
+p136
+I5
+sS'w. w. smith'
+p137
+I1
+sS'f. f. faulkner'
+p138
+I2
+sS'c. e. wood'
+p139
+I1
+sS'h. stolworthy'
+p140
+I1
+sS'c. l. gilly'
+p141
+I8
+sS'r. w. harrington'
+p142
+I2
+sS'h. sawyer'
+p143
+I2
+sS'r. c. bean'
+p144
+I9
+sS'p. schaeffer'
+p145
+I1
+sS'e. flagg'
+p146
+I20
+sS'r. b. dodge'
+p147
+I1
+sS'p. a. shafer'
+p148
+I2
+sS'd. l.'
+p149
+I2
+sS'r. e. schultes'
+p150
+I3
+sS'v. amee'
+p151
+I1
+sS'n. ammons'
+p152
+I9
+sS'harold n. moldenke'
+p153
+I1
+sS'o. f. cook'
+p154
+I1
+sS'w. d. muenscher'
+p155
+I1
+sS'a. hodgdon'
+p156
+I18
+sS'e. w. mason'
+p157
+I1
+sS'f. c. seymour'
+p158
+I6
+sS'w. m. frye'
+p159
+I1
+sS'h. wilkens'
+p160
+I4
+sS'r. j. eaton'
+p161
+I3
+sS'e. h. hitchings'
+p162
+I2
+sS'h. herpers'
+p163
+I1
+sS'r. harrington'
+p164
+I6
+sS'r. c .bean'
+p165
+I32
+sS'p. wiebecks'
+p166
+I1
+sS'w. whitcomb'
+p167
+I11
+sS'r. firier'
+p168
+I1
+sS'e. f. hartmann'
+p169
+I1
+sS'l. h. potter'
+p170
+I1
+sS'e. j. dole'
+p171
+I7
+sS'h. croasdale'
+p172
+I16
+sS'j. w. thomson'
+p173
+I3
+sS'w. f. westerfel'
+p174
+I2
+sS'd. allan'
+p175
+I2
+sS'm. r. carriker'
+p176
+I2
+sS'w. t. winne'
+p177
+I171
+sS'm. broun'
+p178
+I2
+sS'p. wiebecke'
+p179
+I2
+sS'c. m. litch'
+p180
+I7
+sS'r. marsh'
+p181
+I5
+sS'e. b. clapp'
+p182
+I1
+sS'r. t. clausen'
+p183
+I3
+sS'arthur k. harrison'
+p184
+I1
+sS'burton n.'
+p185
+I2
+sS'c. a. weatherby'
+p186
+I18
+sS'm. dodge'
+p187
+I6
+sS'a. yeager'
+p188
+I1
+sS'e. bean'
+p189
+I4
+sS'e. b. ogden'
+p190
+I2
+sS'r. w. pohl'
+p191
+I3
+sS'a. s. pease'
+p192
+I349
+sS't. g. yuncker'
+p193
+I24
+sS'm. c. richards'
+p194
+I7
+sS'r. h. mocauley'
+p195
+I8
+sS'm. a. chrysler'
+p196
+I3
+sS'g. h. pride'
+p197
+I5
+sS'g. r. fessenden'
+p198
+I3
+sS's. k. eastwood'
+p199
+I7
+sS'l. e. hand'
+p200
+I1
+sS'k. a. wagner'
+p201
+I9
+sS'j. g. borin'
+p202
+I2
+sS'l. r. stanford'
+p203
+I1
+sS'l. b. smith'
+p204
+I38
+sS'e. lawton [probably elva lawton].'
+p205
+I1
+sS'c. m. boardman'
+p206
+I108
+sS'a. j. grout'
+p207
+I2
+sS'm. coffin'
+p208
+I7
+sS'r. h. mccauley'
+p209
+I1
+sS'h. k. svenson'
+p210
+I5
+sS'r. poland'
+p211
+I1
+sS't. b. bachand'
+p212
+I3
+sS'a. e. perkins'
+p213
+I1
+sS'e. l. dole'
+p214
+I1
+sS'w. l. c. muenscher'
+p215
+I20
+sS'c. a. taylor jr.'
+p216
+I25
+sS'c. c. zimmerman'
+p217
+I1
+sS'w. r. taylor'
+p218
+I62
+sS'p. pines'
+p219
+I2
+sS's. shushan'
+p220
+I2
+sS'c. boyd'
+p221
+I1
+sS'walter c.'
+p222
+I1
+sS'r. r. stewart'
+p223
+I1
+sS'g. n. jones'
+p224
+I15
+sS'w. m. benner'
+p225
+I12
+sS'o. s thomson'
+p226
+I2
+sS'n. c. fassett'
+p227
+I1
+sS'e.l. shannon'
+p228
+I1
+sS'f. drumbeller'
+p229
+I2
+sS'l. a. charette'
+p230
+I2
+sS'm. heinke'
+p231
+I2
+sS'd. smith'
+p232
+I2
+sS'a. k. harrison'
+p233
+I12
+sS'c. t. rogerson'
+p234
+I1
+sS'e. l. shanon'
+p235
+I1
+sS'm. w. taylor'
+p236
+I16
+sS'd. isley'
+p237
+I1
+sS'h. wilkins'
+p238
+I2
+sS'w. a. silveus'
+p239
+I7
+sS'd. berkheimer'
+p240
+I7
+sS'f. w. pennell'
+p241
+I13
+sS'o. e. jennings'
+p242
+I26
+sS'e. a. palmatier'
+p243
+I2
+sS'w. a. anderson'
+p244
+I2
+sS'r. b. smith'
+p245
+I5
+sS'r. k. lampton'
+p246
+I1
+sS'j. potter'
+p247
+I1
+sS'j. kucyniak'
+p248
+I5
+sS'e. lawton'
+p249
+I1
+sS'c. stanton'
+p250
+I1
+sS'b. easton'
+p251
+I4
+sS'a. studley'
+p252
+I1
+sS'f. r. williams'
+p253
+I5
+sS'f. drumheller'
+p254
+I4
+sS'h. d. house'
+p255
+I1
+sS'g. k. jennings'
+p256
+I2
+sS'k. p. jansson'
+p257
+I1
+sS'b. n. gates'
+p258
+I71
+sS'w. h. camp'
+p259
+I1
+sS'd. l. salter'
+p260
+I3
+sS'p. schaefer'
+p261
+I3
+sS'g. j. ikenberry'
+p262
+I7
+sS'w. b. brierly'
+p263
+I2
+sS'n. whitford'
+p264
+I2
+sS'r. c. smith'
+p265
+I2
+sS'j. m. fogg jr.'
+p266
+I1
+sS'e. b. matzke'
+p267
+I4
+sS'p. fern drumbeller'
+p268
+I1
+sS'w. h. manning'
+p269
+I1
+sS'e. c. ogden'
+p270
+I1
+sS's. k .harris'
+p271
+I2
+sS'h. b. c. field trips'
+p272
+I2
+sS'b. philotheus'
+p273
+I1
+sS'h. clapp'
+p274
+I9
+sS'a. r. hogdon'
+p275
+I2
+sS'r. d. ross'
+p276
+I2
+sS'e. mineau'
+p277
+I4
+sS'd. l. smith'
+p278
+I15
+sS'g. pride'
+p279
+I16
+sS'r. b. ellis'
+p280
+I3
+sS'c. f. batchelder'
+p281
+I2
+sS'l. sargent'
+p282
+I5
+sS'e. andrews'
+p283
+I26
+sS'd.l. smith'
+p284
+I1
+sS'c. b. smith'
+p285
+I3
+sS'r. h. lombard'
+p286
+I2
+sS'e. j. dale'
+p287
+I1
+sS'j. a. schafer'
+p288
+I15
+sS'g. a. loughridge'
+p289
+I1
+sS'w. h. lyford'
+p290
+I1
+sS'f. e. drouet'
+p291
+I2
+sS'f. w. hunnewell'
+p292
+I71
+sS'd. h. chapman'
+p293
+I1
+sS'e. nanton'
+p294
+I1
+sS'u. f. weatherby'
+p295
+I9
+sS'm. h. pride'
+p296
+I28
+sS'h. w. rickett'
+p297
+I1
+sS'o. thomson'
+p298
+I2
+sS'l. h. bailey'
+p299
+I1
+sS'c. a. taylor jr.w'
+p300
+I3
+sS'l. duval'
+p301
+I5
+sS'e. dole'
+p302
+I1
+sS'c. vargas'
+p303
+I4
+sS'f. a. wiley'
+p304
+I1
+sS'una f. weatherby'
+p305
+I3
+sS'e. otto'
+p306
+I1
+sS'w. b. drew'
+p307
+I1
+sS'w. babel'
+p308
+I8
+s.
